@@ -1,0 +1,23 @@
+.divSearch{
+    display: flex;
+    padding: 2em;
+    justify-content: right;
+    background-color:rgb(108, 108, 108);
+}
+.input {
+    border: 0px;
+    border-radius: 15px 0px 0px 15px;
+    width: 150px;
+    height: 30px;
+    margin: 0%;
+
+}
+.boton {
+    margin: 0%;
+    border: 0px;
+    border-radius: 0px 15px 15px 0px;
+    width: 80px;
+    color: black;
+    font-weight:bold;
+    background-color: rgb(148, 148, 148);
+}

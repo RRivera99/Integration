@@ -1,0 +1,48 @@
+.divTexto{
+    
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(75, 165, 82);
+    width: 100%;
+    height: 100%;
+    border-radius: 7px;
+    margin: auto;
+    padding: .1em;
+}
+.titulos {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0%;
+    padding: .3em;
+    
+  
+}
+.divGeneral{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:normal;
+    width: 230px;
+    height: 375px;
+    align-items: center;
+    background-color: rgb(62, 142, 69);
+    padding: .5em;
+    margin: .75em;
+    border-radius: 10px;
+   
+}
+
+
+.imagen{
+    border-radius: 10px;
+   position:static;
+    width: 200px;
+    height: 200px;
+    margin: .5em;
+    padding: .1em;
+    align-items: center;
+   
+}
